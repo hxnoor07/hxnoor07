@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hxnoor07
 - 👀 I’m interested in Web development and designing
-- 🌱 I’m currently learning ReaxtJS,Firebase and TailwindCSS
+- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on projects
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love drawing and painting in my free time.
